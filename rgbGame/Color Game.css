@@ -1,0 +1,80 @@
+body{
+	background-color: #363d47;
+	margin: 0;
+	font-family: 'Amatic SC', cursive;
+	/*font-family: 'Shadows Into Light', cursive;*/
+
+
+}
+
+#allsq{
+	margin:1.5% auto;
+	width: 40%;
+	align-content: center;
+}
+.sq{
+	width: 30%;
+	padding-top: 30% ;
+	margin: 1.66%;
+	float: left;
+	background-color: yellow;
+	border-radius: 20px;
+	transition: background .6s;
+	/*box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);*/
+}
+
+h1{
+	color: white;
+	margin: 0;
+	text-align: center;
+	/*background-color: steelblue;*/
+	background-color: #6851a5;
+	text-transform: uppercase;
+	line-height: 1.2;
+	padding: 15px 0;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+#stripe{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+}
+
+.selected{
+	background-color: #6851a5;
+	color: white;
+}
+
+#col{
+	font-size: 200%;
+}
+
+button{
+	outline: none;
+	background: none;
+	border: none;
+	font-family: 'Concert One', cursive;
+	text-transform: uppercase;
+	height: 100%;
+	font-weight: 800;
+	font-size: inherit;
+	color: #6851a5;
+	letter-spacing: 3px;
+}
+button:hover {
+	color:white;
+	background-color: #6851a5;
+}
+
+#disp{
+	font-family: 'Concert One', cursive;
+	font-size: 21px;
+	display: inline-block;
+	width:20%;
+	font-weight: 700;
+	color: #6851a5;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
