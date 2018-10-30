@@ -1,5 +1,5 @@
 body{
-	background-color: #363d47;
+	background-color: #363d50;
 	margin: 0;
 	font-family: 'Amatic SC', cursive;
 	/*font-family: 'Shadows Into Light', cursive;*/
@@ -42,7 +42,7 @@ h1{
 }
 
 .selected{
-	background-color: #6851a5;
+	background-color: #6851a7;
 	color: white;
 }
 
